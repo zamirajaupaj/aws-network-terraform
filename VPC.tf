@@ -1,6 +1,6 @@
 provider "aws" {
-	access_key = "AKIAIMLS4I4VSWW3C75A"
-	secret_key = "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"
+	access_key = ""
+	secret_key = ""
 }
 
 resource "aws_vpc" "vpc" {
