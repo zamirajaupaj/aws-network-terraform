@@ -1,6 +1,6 @@
-# Configuration of VPC, PUBBLIC AND PRIVATE SUBNET, NAT GATEWAY, ROUTE TABLES #
+# Configuration of Vpc, Pubblic & Private Subnet, Nat gateway, Route Tables, Eip #
 
-first of all you have to install Terraform and create iam user!
+first of all you have to install Terraform and create Iam User!
 
 Then run these commands: 
 to create resources
